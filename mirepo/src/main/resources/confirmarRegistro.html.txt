@@ -1,0 +1,7 @@
+<h1>Hola</h1>
+
+<p>Recibes este correo porque has inscrito tu local en la aplicación de FrontJuegos</p>
+
+<p>Por favor, haz clic aquí para confirmar tu registro: #URL_CONFIRMACION_REGISTRO#</p>.
+
+ 

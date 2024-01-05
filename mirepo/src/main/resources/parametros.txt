@@ -1,0 +1,16 @@
+{
+	"home" : "http://127.0.0.1:4200/login",
+	"login" : "?ojr=login",
+	"urlConfirmacion" : "http://127.0.0.1/user/validateAccount/",
+	"urlRecover" : "http://127.0.0.1/user/recoverPwd2/",
+	"resetPwd" : "http://127.0.0.1:4200/updatePwd/",
+	
+	"email" : {
+		"endpoint" : "https://api.brevo.com/v3/smtp/email",
+		"api-key" : "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",
+		"sender" : {
+			"name" : "UCLM",
+			"email" : "oscar.escabias@alu.uclm.es"
+		}
+	}
+}

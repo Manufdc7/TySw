@@ -1,0 +1,5 @@
+<h1>Hola</h1>
+
+<p>Recibes este correo porque has pedido recuperar tu contraseña</p>
+
+<p>Esta es tu contraseña: #URL_RECUPERAR_PWD#</p>.
